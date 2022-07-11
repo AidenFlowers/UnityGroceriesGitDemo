@@ -6,3 +6,5 @@ Tomatoes
 Peas
 Carrots
 Celery
+Toast
+Bagels
