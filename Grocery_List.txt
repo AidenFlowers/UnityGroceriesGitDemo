@@ -4,3 +4,5 @@ Grocery List
 Beans
 Tomatoes
 Peas
+Carrots
+Celery
